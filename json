@@ -15,10 +15,22 @@
 		"street":"Orozbekova",
 		"number":206
 },
-"favorite films":["Oath", "The smell of strawberries"],
+"favorite serials":["Windy", "The smell of strawberries"],
 "hobby":{
 	"sport":"run",
-"literature":"reading",
+"literature":"readind",
 "making":"bead bracelets"
- }
+ },
+ "family":[
+ 	{
+"parents":"dad",
+"name":"Kubatbek",
+"age":47
+},
+{
+"parents":"mom",
+"name":"Elmira",
+"age":45
+}
+ ]
 }
