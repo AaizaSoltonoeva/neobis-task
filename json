@@ -4,7 +4,7 @@
 	"age":18,
 	"date of birth":{
 		"month":"November",
-		"day":14,
+		"day":14
 	},
 	"study":"Kyrgyz Tehnical University",
 	"course":2,
@@ -15,5 +15,10 @@
 		"street":"Orozbekova",
 		"number":206
 },
-"favorit films":["Oath", "The smell of strawberries"],
+"favorite films":["Oath", "The smell of strawberries"],
+"hobby":{
+	"sport":"run",
+"literature":"readind",
+"making":"bead bracelets"
+ }
 }
