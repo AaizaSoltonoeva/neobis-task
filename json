@@ -1,0 +1,19 @@
+{
+	"name":"Aaiza",
+	"surname":"Soltonoeva",
+	"age":18,
+	"date of birth":{
+		"month":"November",
+		"day":14,
+	},
+	"study":"Kyrgyz Tehnical University",
+	"course":2,
+	"faculty":"Faculty of information technology",
+	"zodiac sing":"scorpio",
+	"home adress":{
+		"city":"Bishkek",
+		"street":"Orozbekova",
+		"number":206
+},
+"favorit films":["Oath", "The smell of strawberries"],
+}
