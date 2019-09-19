@@ -31,6 +31,21 @@
 "parents":"mom",
 "name":"Elmira",
 "age":45
+},
+{
+"first child":"Brother",
+"name":"Bakai",
+"age":23,
+},
+{
+	"second child":"Sister",
+	"name":"Sezim",
+	"age":22
+},
+{
+	"third child":"little sister",
+	"name":"Altynai",
+"age":11
 }
  ]
 }
